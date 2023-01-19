@@ -14,9 +14,12 @@ layout: default
                 {% endif %}
                 <div>
                     {% if repository.license %}
-                    <span>{{ repository.language }} - {{ repository.license.name }}</span>
+                    <span><i class="fa-solid fa-file-code"></i> {{ repository.language }} - {{ repository.license.name
+                        }}</span>
+                    <span>- <i class="fa-solid fa-star"></i> {{ repository.stargazers_count }}</span>
                     {% else %}
-                    <span>{{ repository.language }} - No license</span>
+                    <span><i class="fa fa-exclamation-triangle"></i> No license</span>
+                    <span>- <i class="fa-solid fa-star"></i> {{ repository.stargazers_count }}</span>
                     {% endif %}
                 </div>
             </li>
