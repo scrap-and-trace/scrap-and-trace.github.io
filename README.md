@@ -3,7 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![pages-build-deployment](https://github.com/scrap-and-trace/scrap-and-trace.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/scrap-and-trace/scrap-and-trace.github.io/actions/workflows/pages/pages-build-deployment)
 
-Currently available at https://kgdn.github.io. Original work created by [Kieran Gordon](https://github.com/kgdn) for https://kgdn.github.io.
+Currently available at https://scrap-and-trace.github.io. Original work created by [Kieran Gordon](https://github.com/kgdn) for https://kgdn.github.io.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
