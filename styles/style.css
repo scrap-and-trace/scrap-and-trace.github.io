@@ -242,6 +242,12 @@ hr {
     height: auto;
   }
 
+  header {
+    padding: 0;
+    text-align: center;
+    margin-top: 1em;
+  }
+
   header nav h1 {
     display: none;
   }
