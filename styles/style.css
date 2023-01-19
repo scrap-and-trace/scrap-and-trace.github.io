@@ -33,7 +33,7 @@ body {
 }
 
 header {
-  padding: 1em 1em 1em 2em;
+  padding: 1em 2em 1em 2em;
   color: var(--white);
   font-weight: bold;
   margin: 0 auto;
