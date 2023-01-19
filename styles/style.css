@@ -153,7 +153,6 @@ hr {
 }
 
 .post-list :hover {
-  /* fade to ##3c3c3c */
   background-color: #3c3c3c;
   transition: background-color 0.2s ease;
 }
@@ -189,7 +188,6 @@ hr {
 }
 
 .about-container img {
-  /* make the same size and make images squircle */
   width: 250px;
   height: 250px;
   border-radius: 10px;
@@ -201,7 +199,6 @@ hr {
 }
 
 .about-list {
-  /* make the list items take up the same space horizontally */
   display: flex;
   flex-wrap: wrap;
   margin: 0;
