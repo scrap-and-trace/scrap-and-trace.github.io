@@ -13,13 +13,16 @@ layout: default
                 <b>{{ repository.name }}</b>
                 {% endif %}
                 <div>
-                    {% if repository.license %}
-                    <span><i class="fa-solid fa-file-code"></i> {{ repository.language }} - {{ repository.license.name
-                        }}</span>
-                    <span>- <i class="fa-solid fa-star"></i> {{ repository.stargazers_count }}</span>
+                    {% if repository.language %}
+                    <span><i class="fa-solid fa-file-code"></i> {{ repository.language }} -</span>
                     {% else %}
-                    <span><i class="fa fa-exclamation-triangle"></i> No license</span>
-                    <span>- <i class="fa-solid fa-star"></i> {{ repository.stargazers_count }}</span>
+                    <span><i class="fa-solid fa-file-code"></i> No language -</span>
+                    {% endif %}
+
+                    {% if repository.license %}
+                    <span><i class="fa-solid fa-file-certificate"></i>{{ repository.license.name }}</span>
+                    {% else %}
+                    <span><i class="fa-solid fa-file-code"></i>No license</span>
                     {% endif %}
                 </div>
             </li>
