@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Adam Dwyer",
+    "github": "ad204",
+    "html_url": "https://github.com/ad204",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71329053?v=4",
+    "role": "Application Developer",
+    "degree": "BSc. Computer Systems"
+  },
+  {
+    "name": "Euan Hutchison",
+    "github": "euan-h",
+    "html_url": "https://github.com/euan-h",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91856819?v=4",
+    "role": "Application Developer",
+    "degree": "BSc. Computer Science"
+  },
+  {
+    "name": "Ewan Richardson",
+    "github": "Erichardson772",
+    "html_url": "https://github.com/Erichardson772",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91472138?v=4",
+    "role": "Database Developer",
+    "degree": "MEng. Software Engineering"
+  },
+  {
+    "name": "Jiankun \"George\" Kong",
+    "github": "Sanqi-37-21",
+    "html_url": "https://github.com/Sanqi-37-21",
+    "avatar_url": "https://avatars.githubusercontent.com/u/71331342?v=4",
+    "role": "Application Developer",
+    "degree": "BSc. Computer Science"
+  },
+  {
+    "name": "Kieran Gordon",
+    "github": "kgdn",
+    "html_url": "https://github.com/kgdn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90861032?v=4",
+    "role": "Technical Manager",
+    "degree": "BSc. Computer Systems"
+  },
+  {
+    "name": "Gregor Campbell",
+    "github": "Tisuw",
+    "html_url": "https://github.com/tisuw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/90911470?v=4",
+    "role": "Organisational Manager",
+    "degree": "BSc. Computer Science"
+  }
+]

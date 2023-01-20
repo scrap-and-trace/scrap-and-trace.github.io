@@ -110,7 +110,7 @@ hr {
 .main-content-container {
   margin: 0 auto;
   padding: 0 2em;
-  animation: fadeInAnimation ease 1.5s;
+  animation: fadeInAnimation ease 0.75s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }

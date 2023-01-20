@@ -1,9 +1,8 @@
 ---
 title: About Us
+description: Here's what we're all about.
 layout: default
 ---
-
-We're Scrap and Trace, and for the time being, this is some placeholder text.
 
 ## The Team
 
@@ -20,13 +19,21 @@ We're Scrap and Trace, and for the time being, this is some placeholder text.
                     {{ contributor.role }}
                 </div>
                 <div>
+                    <span><i class="fas fa-graduation-cap"></i> {{ contributor.degree }}</span>
+                </div>
+                <div>
                     <span><i class="fab fa-github"></i> {{ contributor.github }}</span>
                 </div>
+                
             </li>
         </div>
     </a>
     {% endfor %}
 </ul>
+
+### Who are we?
+
+Scrap & Trace is a project made for our third year group project by a group of students from Heriot-Watt University in Edinburgh, Scotland. We are a group of students from a variety of backgrounds, including Computer Science, Computer Systems, and Software Engineering.
 
 ## The Project
 
