@@ -33,10 +33,11 @@ body {
 }
 
 header {
-  padding: 1em 2em 0 2em;
+  padding: 1em 2em 1em 2em;
   color: var(--white);
   font-weight: bold;
   margin: 0 auto;
+  background-color: #da622b;
 }
 
 header nav {
@@ -158,7 +159,7 @@ hr {
 }
 
 .url-button {
-  background-color: var(--grey);
+  background-color: #da622b;
   color: var(--white);
   border: none;
   border-radius: 3px;
