@@ -247,17 +247,6 @@ hr {
 }
 
 @media screen and (max-width: 833px) {
-  header h1 {
-    float: none;
-    margin: 0 auto;
-    padding: 0;
-  }
-
-  nav {
-    float: none;
-    text-align: center;
-  }
-
   .container {
     padding: 0 10px;
   }
@@ -278,10 +267,20 @@ hr {
     height: auto;
   }
 
-  header {
+  header h1 {
+    float: none;
+    margin: 0 auto;
     padding: 0;
+  }
+
+  nav {
+    float: none;
     text-align: center;
-    margin-top: 1em;
+  }
+
+  header {
+    text-align: center;
+    padding: 0;
   }
 
   header nav h1 {
@@ -297,7 +296,6 @@ hr {
   }
 
   header nav {
-    padding: 0;
     text-align: center;
   }
 
