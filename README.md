@@ -20,3 +20,5 @@ Icons by [Font Awesome](https://fontawesome.com/), licensed under [CC BY 4.0](ht
 
 Fonts by [Google Fonts](https://fonts.google.com/), licensed under the
 [SIL Open Font License](https://scripts.sil.org/OFL) and [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+Comments section powered by [💎️ giscus](https://giscus.app/). Source code available at [https://github.com/giscus/giscus](https://github.com/giscus/giscus/), licensed under the [MIT License](https://opensource.org/licenses/MIT).
