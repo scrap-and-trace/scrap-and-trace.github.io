@@ -24,7 +24,6 @@ layout: default
                 <div>
                     <span><i class="fab fa-github"></i> {{ contributor.github }}</span>
                 </div>
-                
             </li>
         </div>
     </a>
@@ -34,7 +33,3 @@ layout: default
 ### Who are we?
 
 Scrap & Trace is a project made for our third year group project by a group of students from Heriot-Watt University in Edinburgh, Scotland. We are a group of students from a variety of backgrounds, including Computer Science, Computer Systems, and Software Engineering.
-
-## The Project
-
-This is a placeholder for the project description.
