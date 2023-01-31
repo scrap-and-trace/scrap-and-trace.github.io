@@ -209,7 +209,6 @@ hr {
 }
 
 .contact-form {
-  /* style like about-container */
   border-color: #FFFFFF50;
   border-radius: 10px;
   background-color: var(--grey);
@@ -262,6 +261,21 @@ hr {
 .contact-form button:hover {
   background-color: #3c3c3c;
   transition: background-color 0.2s ease;
+}
+
+.giscus-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background-color: #0d1117;
+  color: var(--white);
+  padding: 1.5em;
+  margin: 1em 0;
+  border-radius: 10px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 3px 1px rgba(0, 0, 0, 0.07), 0 2px 6px 2px rgba(0, 0, 0, 0.03);
 }
 
 @media screen and (prefers-color-scheme: light) {
@@ -319,6 +333,11 @@ hr {
   .contact-form button:hover {
     background-color: #f5f5f5;
     transition: background-color 0.2s ease;
+    color: var(--black);
+  }
+
+  .giscus-container {
+    background-color: var(--white);
     color: var(--black);
   }
 }
