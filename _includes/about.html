@@ -1,7 +1,7 @@
-<ul class="about-list">
+<div class="about-list">
     {% for contributor in site.data.contributors %}
     <a href="{{ contributor.html_url }}">
-        <div class="about-container" href="{{ contributor.html_url }}">
+        <div class="about-container">
             <li>
                 <img src="{{ contributor.avatar_url }}" alt="{{ contributor.login }}" class="avatar">
                 <div>
@@ -20,4 +20,4 @@
         </div>
     </a>
     {% endfor %}
-</ul>
+</div>
